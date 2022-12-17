@@ -1,0 +1,1 @@
+# Inheritance-Ex2
